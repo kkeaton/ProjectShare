@@ -1,0 +1,17 @@
+{
+  "name": "projectshare",
+  "version": "1.0.0",
+  "description": "at risk teen center",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Keshawn Keaton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
