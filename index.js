@@ -5,8 +5,9 @@ const port = 3000
 app.set('views','./views')
 //Templating engine set to pug
 app.set('view engine','pug')
-app.get('/', (req , res) => res.render('home'),{tittle: "Project Share"})
+app.get('/', (req , res) => res.render('home',{tittle: "Project Share"}))
 
 
 
 app.listen(port, () => console.log(`Example app listing on port ${port}!`))
+

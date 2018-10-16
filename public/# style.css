@@ -1,9 +1,21 @@
 body{
 padding: 50px;
 font:14px "helvetica", Arial,Tahoma,Sans-serif;
+background-color: aqua;
 }
 
 #header{
 
     height: 85px;
 }
+
+background{
+
+    color:black;
+}
+
+
+h1{
+    color: aqua;
+}
+
